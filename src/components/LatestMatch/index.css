@@ -1,0 +1,52 @@
+/* Write your CSS here */
+.latest-matches-container {
+  width: 100%;
+}
+.latest-matches-heading {
+  color: #ffffff;
+  font-family: bree serif;
+  font-size: 24px;
+}
+.latest-matches-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #0f172a;
+  padding: 20px;
+  width: 100%;
+  border-radius: 10px;
+}
+.latest-team {
+  font-family: bree serif;
+  font-size: 36px;
+  color: #ffffff;
+}
+.latest-date {
+  font-family: bree serif;
+  font-size: 24px;
+  color: #ffffff;
+}
+.latest-venue {
+  font-family: bree serif;
+  font-size: 16px;
+  color: #ffffff;
+}
+.latest-result {
+  font-family: bree serif;
+  font-size: 16px;
+  color: #ffffff;
+}
+.logo {
+  height: 250px;
+  width: 250px;
+}
+.latest-label {
+  font-family: bree serif;
+  font-size: 24px;
+  color: #ffffff;
+}
+.latest-value {
+  font-family: bree serif;
+  font-size: 16px;
+  color: #ffffff;
+}

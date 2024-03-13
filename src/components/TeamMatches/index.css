@@ -1,0 +1,43 @@
+/* Write your CSS here */
+.team-match-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  width: 95%;
+}
+.team-banner {
+  border-radius: 5px;
+}
+.rcb {
+  background-color: linear-gradient(to top #1e293b, #a4261d);
+}
+.csk {
+  background-color: linear-gradient(to top #1e293b, #f7db00);
+}
+.mi {
+  background-color: linear-gradient(to top #1e293b, #5755a7);
+}
+.dc {
+  background-color: linear-gradient(to top #1e293b, #13418b);
+}
+.kkr {
+  background-color: linear-gradient(to top #1e293b, #13418b);
+}
+.kxp {
+  background-color: linear-gradient(to top #1e293b, #da237b);
+}
+.sh {
+  background-color: linear-gradient(to top #1e293b, #f26d22);
+}
+.response-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.recent-container {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
